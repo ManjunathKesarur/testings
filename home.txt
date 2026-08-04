@@ -1,3 +1,6 @@
-private int b;
+
 
 private int c;
+
+private int a;
+
